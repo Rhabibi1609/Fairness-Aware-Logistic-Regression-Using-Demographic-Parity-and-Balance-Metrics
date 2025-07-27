@@ -6,7 +6,7 @@ Evaluate and improve fairness in ML models using demographic parity and balance 
 ![Fairness](https://img.shields.io/badge/Fairness-Metrics-critical?logo=scikitlearn&logoColor=white)
 ![Status](https://img.shields.io/badge/Accuracy-100%25-success)
 
-**Notebook**: [Open in Google Colab 🚀](https://colab.research.google.com/drive/14DfOfYuAfOkBKMTI6GnhahWnWG8EUlSP?usp=sharing)
+**Notebook**: [Open in Google Colab ](https://colab.research.google.com/drive/14DfOfYuAfOkBKMTI6GnhahWnWG8EUlSP?usp=sharing)
 
 ---
 
