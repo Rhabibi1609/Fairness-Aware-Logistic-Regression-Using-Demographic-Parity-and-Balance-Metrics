@@ -71,7 +71,7 @@ To reduce disparity:
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 1. Click the notebook link above   
 2. Run all cells sequentially  
