@@ -63,11 +63,12 @@ To reduce disparity:
 
 ### 1. Scatter Plot of Groups and Selection Outcomes
 
-![Scatter Plot](fairml_scatter_plot.png)
+<img width="2000" height="1200" alt="fairml_scatter_plot" src="https://github.com/user-attachments/assets/d77b646d-6fa0-4cda-a270-bdc426360c69" />
+
 
 ### 2. Fairness Metrics Comparison (Before vs After)
 
-![Metrics Comparison](fairml_metrics_comparison.png)
+<img width="1600" height="1000" alt="fairml_metrics_comparison" src="https://github.com/user-attachments/assets/ddad195f-6de5-4143-9e51-0c0cfbc109d5" />
 
 ---
 
