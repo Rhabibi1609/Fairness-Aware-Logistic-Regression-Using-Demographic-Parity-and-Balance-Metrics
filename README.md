@@ -4,7 +4,7 @@ Evaluate and improve fairness in ML models using demographic parity and balance 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Logistic Regression](https://img.shields.io/badge/Model-Logistic%20Regression-brightgreen)
 ![Fairness](https://img.shields.io/badge/Fairness-Metrics-critical?logo=scikitlearn&logoColor=white)
-![Status](https://img.shields.io/badge/Accuracy-100%25-success)
+
 
 **Notebook**: [Open in Google Colab ](https://colab.research.google.com/drive/14DfOfYuAfOkBKMTI6GnhahWnWG8EUlSP?usp=sharing)
 
